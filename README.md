@@ -26,7 +26,7 @@ Portrait Mode<br>
 <img src="walkthrough.gif" width=250><br>
 
 Landscape Mode<br>
-<img src="walkthrough-land.gif" height=200><br>
+<img src="walkthrough-land.gif" height=250><br>
 
 ### Open-source libraries used
 
